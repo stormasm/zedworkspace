@@ -16,7 +16,7 @@ collections = { git = "https://github.com/zed-industries/zed.git" }
 menu = { git = "https://github.com/zed-industries/zed.git" }
 util = { git = "https://github.com/zed-industries/zed.git" }
 
-gpui = { git = "https://github.com/huacnlee/zed.git", branch = "export-platform-window" }
+gpui = { git = "https://github.com/zed-industries/zed.git" }
 ui = { path = "crates/ui" }
 story = { path = "crates/story" }
 workspace = { path = "crates/workspace" }
